@@ -1,0 +1,6 @@
+Should work out the box, just launch the fla file, if your having problems look to flash security settings
+
+Have a look at; 
+
+http://www.tree-axis.com/Ess/_examples/inputFFT/inputFFT.pde << Processing
+http://music.ece.drexel.edu/ALFdocs/files/DATF-as.html << Alchemy compiled c++ app with interface for AS3
